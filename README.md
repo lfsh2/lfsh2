@@ -66,6 +66,9 @@ Full Stack Developer passionate about creating intuitive web applications and so
 - Building scalable web applications with modern frameworks
 - Implementing responsive designs and optimal UI/UX
 - Client collaboration with high satisfaction rates
+- Manage project development cycles, reducing delivery time while maintaining code quality and functionality.
+- Developed and deployed e-commerce platforms with integrated payment gateways, inventory management and analystic dashboards.
+- Developed and maintained web application with PHP, JavaScripts, HTML and CSS partnered with frameworks like Laravel, React, NuxtJS and CodeIgniter
 
 **PHP Developer** | Remote Based *(Jan 2023 - Sep 2023)*
 - Developed custom CRM systems with analytics capabilities
