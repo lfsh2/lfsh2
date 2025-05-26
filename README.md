@@ -105,8 +105,9 @@ Cavite State University
 - Cloud Architecture (AWS, Azure)
 - Mobile App Development
 - Microsoft TechStack (.NET Core, Entity Framework)
-- Go
+- Golang
 - Ruby on Rails
+- Jenkins + CI/CD
 
 ---
 
