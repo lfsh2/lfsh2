@@ -75,7 +75,7 @@ Full Stack Developer passionate about creating intuitive web applications and so
 - Implemented OOP principles in PHP development
 - Integrated third-party APIs into existing applications
 
-**UI/UX Designer** | Remote Based *(Mar 2023 - May 2023)*
+**UI/UX Designer** | Remote Based *(Mar 2023 - July 2023)*
 - Created user-focused wireframes and prototypes
 - Collaborated with development teams to ensure design implementation
 
