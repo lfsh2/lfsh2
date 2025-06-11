@@ -62,7 +62,7 @@ Full Stack Developer passionate about creating intuitive web applications and so
 
 ## 💼 Professional Experience
 
-**Web Developer** | Remote Based *(Nov 2023 - Present)*
+**Full-Stack Web Developer** | Remote Based *(Nov 2023 - Present)*
 - Building scalable web applications with modern frameworks
 - Implementing responsive designs and optimal UI/UX
 - Client collaboration with high satisfaction rates
