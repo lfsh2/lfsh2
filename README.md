@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer | Laravel • React • PHP • JS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Clean+Code+%E2%9C%A8+%7C+Pixel-perfect+UI+%F0%9F%93%8C+%7C+Scalable+Architecture+%F0%9F%9A%80;Full+Stack+Web+Development+%E2%9C%8C;Let's+Build+Something+Amazing+Together+%F0%9F%92%A1" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Let's+Connect!!!" alt="Typing animation" />
 </p>
 
 ---
@@ -23,11 +23,11 @@
 
 | Language | Proficiency | Years of Experience | Status |
 |----------|-------------|---------------------|---------|
-| **JavaScript** | ![90%](https://progress-bar.dev/90?color=f7df1e&width=120&title=Expert) | 3+ years | 🚀 Expert |
-| **PHP** | ![95%](https://progress-bar.dev/95?color=777bb4&width=120&title=Expert) | 4+ years | 🔥 Expert |
-| **Python** | ![75%](https://progress-bar.dev/75?color=3776ab&width=120&title=Advanced) | 2+ years | 📈 Growing |
-| **HTML/CSS** | ![98%](https://progress-bar.dev/98?color=e34f26&width=120&title=Expert) | 4+ years | ⭐ Master |
-| **TypeScript** | ![80%](https://progress-bar.dev/80?color=3178c6&width=120&title=Advanced) | 2+ years | 💪 Strong |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) | 3+ years | 🚀 Expert |
+| **PHP** | ![PHP](https://img.shields.io/badge/PHP-95%25-777bb4?style=for-the-badge&logo=php&logoColor=white) | 4+ years | 🔥 Expert |
+| **Python** | ![Python](https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white) | 2+ years | 📈 Growing |
+| **HTML/CSS** | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-98%25-e34f26?style=for-the-badge&logo=html5&logoColor=white) | 4+ years | ⭐ Master |
+| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white) | 2+ years | 💪 Strong |
 
 <br/>
 
@@ -81,38 +81,23 @@
 ### 🎯 **Specialty Skills**
 <div align="center">
 
-<details>
-<summary><b>🎨 Frontend Specializations</b></summary>
-<br>
-
+#### 🎨 **Frontend Specializations**
 ![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>⚙️ Backend Specializations</b></summary>
-<br>
-
+#### ⚙️ **Backend Specializations**
 ![Laravel Eloquent](https://img.shields.io/badge/-Laravel%20Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6B35?style=for-the-badge&logo=api&logoColor=white)
 ![Authentication](https://img.shields.io/badge/-JWT%20Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🚀 Advanced Features</b></summary>
-<br>
-
+#### 🚀 **Advanced Features**
 ![3D Development](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Payment Integration](https://img.shields.io/badge/-Payment%20Gateways-00C853?style=for-the-badge&logo=stripe&logoColor=white)
 ![Admin Panels](https://img.shields.io/badge/-Admin%20Systems-7B68EE?style=for-the-badge&logo=dashboard&logoColor=white)
 ![Real-time Features](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-</details>
 
 <br>
 
@@ -192,10 +177,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsh2&layout=compact&theme=dark&hide_border=false" />
 </p>
-
-> 🌓 **Theme Toggle**: GitHub README stats automatically adapt to the visitor's theme (dark/light mode).  
-> You can force light stats using `theme=light` in URLs. Example:  
-> `https://github-readme-stats.vercel.app/api?username=lfsh2&theme=light`
 
 ---
 
