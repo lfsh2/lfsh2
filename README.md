@@ -1,6 +1,6 @@
 <!-- GIF Hero -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="hero gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" max-width="500px" alt="hero gif" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Edishan Lee Tenorio</h1>
