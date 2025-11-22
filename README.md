@@ -4,10 +4,11 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Edishan Lee Tenorio</h1>
-<h3 align="center">Full Stack Developer | Laravel • React • PHP • JS</h3>
+<h3 align="center">Full Stack Developer | AI Automation Specialist | App Developer</h3>
+<h4 align="center">Laravel • React • PHP • JS • Python • AI Integration</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Let's+Connect!!!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+Automation+Specialist;Mobile+%26+Desktop+App+Developer;Let's+Connect!!!" alt="Typing animation" />
 </p>
 
 ---
@@ -59,6 +60,49 @@
 
 <br/>
 
+### 🤖 **AI & Automation**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<div align="center">
+
+| Technology | Use Case | Confidence Level |
+|------------|----------|------------------|
+| ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) | **AI Integration** | ⭐⭐⭐⭐⭐ |
+| ![Claude](https://img.shields.io/badge/-Claude%20API-8B5CF6?style=flat-square&logo=anthropic&logoColor=white) | **AI Automation** | ⭐⭐⭐⭐⭐ |
+| ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) | **AI Workflows** | ⭐⭐⭐⭐ |
+| ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | **ML Models** | ⭐⭐⭐⭐ |
+| ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | **Machine Learning** | ⭐⭐⭐ |
+| ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | **Web Automation** | ⭐⭐⭐⭐ |
+| ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) | **Workflow Automation** | ⭐⭐⭐⭐⭐ |
+| ![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square&logo=integromat&logoColor=white) | **Automation Platform** | ⭐⭐⭐⭐⭐ |
+| ![Pipedream](https://img.shields.io/badge/-Pipedream-0D1117?style=flat-square&logo=pipedream&logoColor=white) | **API Workflows** | ⭐⭐⭐⭐ |
+| ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | **Workflow Automation** | ⭐⭐⭐⭐⭐ |
+| ![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-00D09C?style=flat-square&logo=go&logoColor=white) | **CRM Automation** | ⭐⭐⭐⭐ |
+
+</div>
+
+<br/>
+
+### 📱 **Mobile & Desktop Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,androidstudio,electron" />
+</p>
+
+<div align="center">
+
+| Technology | Platform | Confidence Level |
+|------------|----------|------------------|
+| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | **Cross-Platform Mobile** | ⭐⭐⭐⭐ |
+| ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) | **iOS & Android** | ⭐⭐⭐⭐ |
+| ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) | **Desktop Apps** | ⭐⭐⭐⭐ |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | **Native Android** | ⭐⭐⭐ |
+
+</div>
+
+<br/>
+
 ### 🗄️ **Databases & DevOps**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,git,github,azure,aws" />
@@ -92,6 +136,18 @@
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6B35?style=for-the-badge&logo=api&logoColor=white)
 ![Authentication](https://img.shields.io/badge/-JWT%20Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🤖 **AI & Automation Specializations**
+![AI Chatbots](https://img.shields.io/badge/-AI%20Chatbots-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/-RAG%20Systems-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
+![Process Automation](https://img.shields.io/badge/-Process%20Automation-FF6B00?style=for-the-badge&logo=automationdirect&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-00A67E?style=for-the-badge&logo=anthropic&logoColor=white)
+
+#### 📱 **App Development Specializations**
+![Cross Platform](https://img.shields.io/badge/-Cross%20Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Native Features](https://img.shields.io/badge/-Native%20Features-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![App Store](https://img.shields.io/badge/-App%20Publishing-000000?style=for-the-badge&logo=app-store&logoColor=white)
+![Desktop Apps](https://img.shields.io/badge/-Desktop%20Apps-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 #### 🚀 **Advanced Features**
 ![3D Development](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
@@ -127,6 +183,15 @@
 - Improved client delivery by 30% and reduced revision cycles by 40%
 - Managed deployments via cPanel, VPS, Git, and FileZilla
 
+### **AI Automation Specialist & App Developer**
+*Freelance | Remote | Jan 2024 – Present*
+- Developed AI-powered automation solutions using **OpenAI API**, **Claude API**, and **LangChain**
+- Created intelligent chatbots and RAG systems for business process automation
+- Built cross-platform mobile apps using **Flutter** and **React Native**
+- Developed desktop applications with **Electron** for Windows, macOS, and Linux
+- Integrated AI agents for workflow optimization, reducing manual tasks by 60%
+- Implemented web scraping and automation tools using **Selenium** and **Python**
+
 ### **React Developer**
 *Private Client | Remote | Aug 2023 – Dec 2024*
 - Built reusable UI components with **React, Context API, Redux**
@@ -153,6 +218,8 @@
 | 🎧 **IEM Ecommerce Website w/ 3D Customization** | Laravel, Three.js, Tailwind | [GitHub](https://github.com/lfsh2/INM_Audio) |
 | 🏋️‍♂️ **ForeverLife Gym Management System** | PHP, MySQL, Bootstrap | [GitHub](https://github.com/lfsh2/Gym-Management-System) |
 | 🏗 **Construction Booking & Portfolio Site** | Vue, Nuxt, Laravel, PostgreSQL | [Live Site](https://jkkconstructionservices.com/) |
+| 🤖 **AI Customer Support Chatbot** | Python, OpenAI API, LangChain, Flask | Coming Soon |
+| 📱 **Fitness Tracking Mobile App** | Flutter, Firebase, Dart | Coming Soon |
 
 ---
 
@@ -165,6 +232,8 @@
 - .NET Core, Entity Framework
 - AWS & Azure Cloud Services
 - Golang, Ruby on Rails
+- Advanced AI/ML (RAG, Vector Databases, Fine-tuning)
+- LLM Integration & Prompt Engineering
 
 ---
 
