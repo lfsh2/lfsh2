@@ -109,7 +109,17 @@ AI voice receptionist and missed-call text-back · speed-to-lead and no-show rec
 
 ---
 
-## GitHub stats
+## My year on the Grand Line
+
+Every commit is treasure. The ship sails through my contribution graph and collects it, redrawn every day.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfsh2/lfsh2/output/grand-line-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfsh2/lfsh2/output/grand-line-light.svg" />
+    <img alt="A pixel-art pirate ship with a straw hat on its sail sails through my GitHub contribution graph, collecting each day of commits as gold treasure." src="https://raw.githubusercontent.com/lfsh2/lfsh2/output/grand-line-light.svg" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lfsh2&show_icons=true&theme=transparent&hide_border=true&title_color=12213F&icon_color=65A30D" height="165" alt="GitHub stats" />
