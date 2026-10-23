@@ -1,281 +1,137 @@
-<!-- GIF Hero -->
+<a href="https://edishan-portfolio.vercel.app">
+  <img src="https://edishan-portfolio.vercel.app/opengraph-image" alt="Edishan Lee Tenorio: AI Automation Specialist and CRM Developer" width="100%" />
+</a>
+
+<h1 align="center">Hi, I'm Edishan Lee Tenorio</h1>
+<h3 align="center">AI Automation Specialist & CRM Developer</h3>
+<p align="center">Software Engineer · Full-Stack Developer · Mobile Developer</p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" max-width="500px" alt="hero gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=640&lines=Automation+when+you+can.;Custom+software+when+you+have+to.;GoHighLevel+%C2%B7+n8n+%C2%B7+AI+agents;Next.js+%C2%B7+Laravel+%C2%B7+Spring+Boot" alt="Automation when you can. Custom software when you have to." />
 </p>
 
-<h1 align="center">Hi 👋 I'm Edishan Lee Tenorio</h1>
-<h3 align="center">Full Stack Developer | AI Automation Specialist | App Developer</h3>
-<h4 align="center">Laravel • React • PHP • JS • Python • AI Integration</h4>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+Automation+Specialist;Mobile+%26+Desktop+App+Developer;Let's+Connect!!!" alt="Typing animation" />
+  <a href="https://edishan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-edishan--portfolio.vercel.app-12213F?style=for-the-badge&labelColor=C8F36A" alt="Portfolio" /></a>
+  <a href="https://calendar.app.google/tsPLERd6vJ4yJGgL9"><img src="https://img.shields.io/badge/Book_a_call-12213F?style=for-the-badge&logo=googlecalendar&logoColor=C8F36A" alt="Book a call" /></a>
+  <a href="https://edishan-portfolio.vercel.app/Tenorio_EdishanLee_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-12213F?style=for-the-badge" alt="Résumé" /></a>
 </p>
 
 ---
 
-## 🛠️ My Tech Stack
+## About me
 
-<div align="center">
+I build the automations that capture, qualify and book leads in **GoHighLevel**, **n8n** and AI agents, and the custom software behind them when a platform falls short. You get one engineer for both sides: the workflow and the application it runs on.
 
-### 💻 **Programming Languages**
+- 🔁 Lead capture, speed-to-lead, AI receptionists, inbox triage, onboarding and reporting workflows
+- 🗂️ CRM systems and pipelines, built in GoHighLevel or from scratch in Next.js and Laravel
+- 🧱 Full-stack web and mobile apps, from the data model to production
+- 📍 Based in Cavite, Philippines · PHT (UTC+8), overlapping US mornings and AU/NZ business hours
+
+<p align="center">
+  <b>17+</b> production applications &nbsp;·&nbsp; <b>15+</b> platform integrations &nbsp;·&nbsp; <b>&lt;5 min</b> lead response on the AI Lead Engine (down from 4–6 hours)
+</p>
+
+---
+
+## Live work
+
+Systems running in production for real clients. Full write-ups are on [my portfolio](https://edishan-portfolio.vercel.app/work).
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **AI Lead Qualification & CRM Automation** | Scores and routes 200+ leads a week; response time cut from 4–6 hours to under 5 minutes | n8n · OpenAI · GoHighLevel | [Write-up](https://edishan-portfolio.vercel.app/work/ai-lead-qualification) |
+| **Jackson Properties** | Real estate seller site with an offer calculator, property-file intake, buyer list and a built-in CRM | Next.js · Laravel · Three.js | [Live](https://jacksonproperties.us/) · [Write-up](https://edishan-portfolio.vercel.app/work/jackson-properties) |
+| **Teethly** | Dental marketplace and clinic platform that replaces four clinic tools with one system | Next.js · TypeScript · shadcn/ui | [Live](https://www.teethly.ph/) · [Write-up](https://edishan-portfolio.vercel.app/work/teethly) |
+| **MeepleCrate** | Rental and delivery platform with a twelve-module back office | Spring Boot · Laravel · Next.js · PostgreSQL · Stripe | [Write-up](https://edishan-portfolio.vercel.app/work/meeplecrate) |
+| **Echo Call Solutions** | AI receptionist that answers, books and summarises calls 24/7 | Voice AI · React · Vite | [Live](http://www.echocallsolutions.com/) |
+| **Vantrippers** | Travel and tours CRM for booking, scheduling and fleet | Next.js · Laravel · MySQL · AWS | [Live](https://vantripperstravelandtours.com/) |
+| **INM Audio** | 3D in-ear monitor customizer and store; 35% less cart abandonment | CodeIgniter · Three.js · PayMongo | [Live](https://www.inmaudio.com/designer) · [Code](https://github.com/lfsh2/INM_Audio) |
+| **JKK Construction** | Company site and appointment system; 40% more client inquiries | PHP · MySQL · PHPMailer | Site offline |
+| **ForeverLife Gym** | Gym management system; 50% less admin overhead | Laravel · Vue.js · MySQL | [Code](https://github.com/lfsh2/Gym-Management-System) |
+
+### Automation workflows I build
+
+AI voice receptionist and missed-call text-back · speed-to-lead and no-show recovery · AI inbox triage with drafted replies · client onboarding · daily ads and pipeline KPI reports · review generation. Each one has a full breakdown, with the real n8n canvas, on the [Automations page](https://edishan-portfolio.vercel.app/automations).
+
+---
+
+## Tech stack
+
+**Automation & AI**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,php,python,java,cs,html,css,ts" />
+  <img src="https://img.shields.io/badge/GoHighLevel-1F2937?style=flat-square" alt="GoHighLevel" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Webhooks_&_REST_APIs-12213F?style=flat-square" alt="Webhooks and REST APIs" />
 </p>
 
-| Language | Proficiency | Years of Experience | Status |
-|----------|-------------|---------------------|---------|
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) | 3+ years | 🚀 Expert |
-| **PHP** | ![PHP](https://img.shields.io/badge/PHP-95%25-777bb4?style=for-the-badge&logo=php&logoColor=white) | 4+ years | 🔥 Expert |
-| **Python** | ![Python](https://img.shields.io/badge/Python-75%25-3776ab?style=for-the-badge&logo=python&logoColor=white) | 2+ years | 📈 Growing |
-| **HTML/CSS** | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-98%25-e34f26?style=for-the-badge&logo=html5&logoColor=white) | 4+ years | ⭐ Master |
-| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white) | 2+ years | 💪 Strong |
+**Software**
 
-<br/>
-
-### 🚀 **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,laravel,nodejs,django,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,laravel,php,java,spring,nodejs,postgres,mysql,threejs,flutter&perline=13" alt="TypeScript, React, Next.js, Tailwind, Laravel, PHP, Java, Spring Boot, Node.js, PostgreSQL, MySQL, Three.js, Flutter" />
 </p>
 
-<table>
-<tr>
-<td>
+**Cloud & tools**
 
-**Frontend** 🎨
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **Expert**
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) **Advanced**
-- ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **Expert**
-
-</td>
-<td>
-
-**Backend** ⚙️
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) **Expert**
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **Advanced**
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) **Intermediate**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🤖 **AI & Automation**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,azure,docker,git,github,vscode&perline=13" alt="AWS, Vercel, Azure, Docker, Git, GitHub, VS Code" />
 </p>
-
-<div align="center">
-
-| Technology | Use Case | Confidence Level |
-|------------|----------|------------------|
-| ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) | **AI Integration** | ⭐⭐⭐⭐⭐ |
-| ![Claude](https://img.shields.io/badge/-Claude%20API-8B5CF6?style=flat-square&logo=anthropic&logoColor=white) | **AI Automation** | ⭐⭐⭐⭐⭐ |
-| ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) | **AI Workflows** | ⭐⭐⭐⭐ |
-| ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | **ML Models** | ⭐⭐⭐⭐ |
-| ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | **Machine Learning** | ⭐⭐⭐ |
-| ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | **Web Automation** | ⭐⭐⭐⭐ |
-| ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) | **Workflow Automation** | ⭐⭐⭐⭐⭐ |
-| ![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square&logo=integromat&logoColor=white) | **Automation Platform** | ⭐⭐⭐⭐⭐ |
-| ![Pipedream](https://img.shields.io/badge/-Pipedream-0D1117?style=flat-square&logo=pipedream&logoColor=white) | **API Workflows** | ⭐⭐⭐⭐ |
-| ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | **Workflow Automation** | ⭐⭐⭐⭐⭐ |
-| ![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-00D09C?style=flat-square&logo=go&logoColor=white) | **CRM Automation** | ⭐⭐⭐⭐ |
-
-</div>
-
-<br/>
-
-### 📱 **Mobile & Desktop Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,androidstudio,electron" />
-</p>
-
-<div align="center">
-
-| Technology | Platform | Confidence Level |
-|------------|----------|------------------|
-| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | **Cross-Platform Mobile** | ⭐⭐⭐⭐ |
-| ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) | **iOS & Android** | ⭐⭐⭐⭐ |
-| ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) | **Desktop Apps** | ⭐⭐⭐⭐ |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | **Native Android** | ⭐⭐⭐ |
-
-</div>
-
-<br/>
-
-### 🗄️ **Databases & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,git,github,azure,aws" />
-</p>
-
-<div align="center">
-  
-| Technology | Use Case | Confidence Level |
-|------------|----------|------------------|
-| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | **Primary Database** | ⭐⭐⭐⭐⭐ |
-| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | **Complex Queries** | ⭐⭐⭐⭐⭐ |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | **NoSQL Projects** | ⭐⭐⭐⭐ |
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | **Containerization** | ⭐⭐⭐⭐ |
-| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | **Cloud Deployment** | ⭐⭐⭐⭐ |
-
-</div>
-
-<br/>
-
-### 🎯 **Specialty Skills**
-<div align="center">
-
-#### 🎨 **Frontend Specializations**
-![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⚙️ **Backend Specializations**
-![Laravel Eloquent](https://img.shields.io/badge/-Laravel%20Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6B35?style=for-the-badge&logo=api&logoColor=white)
-![Authentication](https://img.shields.io/badge/-JWT%20Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🤖 **AI & Automation Specializations**
-![AI Chatbots](https://img.shields.io/badge/-AI%20Chatbots-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/-RAG%20Systems-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
-![Process Automation](https://img.shields.io/badge/-Process%20Automation-FF6B00?style=for-the-badge&logo=automationdirect&logoColor=white)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-00A67E?style=for-the-badge&logo=anthropic&logoColor=white)
-
-#### 📱 **App Development Specializations**
-![Cross Platform](https://img.shields.io/badge/-Cross%20Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Native Features](https://img.shields.io/badge/-Native%20Features-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![App Store](https://img.shields.io/badge/-App%20Publishing-000000?style=for-the-badge&logo=app-store&logoColor=white)
-![Desktop Apps](https://img.shields.io/badge/-Desktop%20Apps-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-#### 🚀 **Advanced Features**
-![3D Development](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Payment Integration](https://img.shields.io/badge/-Payment%20Gateways-00C853?style=for-the-badge&logo=stripe&logoColor=white)
-![Admin Panels](https://img.shields.io/badge/-Admin%20Systems-7B68EE?style=for-the-badge&logo=dashboard&logoColor=white)
-![Real-time Features](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-<br>
-
-### 📊 **Development Stats**
-<div align="center">
-  
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-500K+-brightgreen?style=for-the-badge&logo=code&logoColor=white)
-![Projects Completed](https://img.shields.io/badge/Projects%20Completed-15+-blue?style=for-the-badge&logo=checkmark&logoColor=white)
-![Client Satisfaction](https://img.shields.io/badge/Client%20Satisfaction-98%25-success?style=for-the-badge&logo=star&logoColor=white)
-![Response Time](https://img.shields.io/badge/Avg%20Response-<2hrs-orange?style=for-the-badge&logo=clock&logoColor=white)
-
-</div>
-
-</div>
-
-</div>
 
 ---
 
-## 💼 Experience Highlights
+## Experience
 
-### **Full Stack Web Developer / Programmer**
-*Freelance | Remote | Sep 2023 – Present*
-- Engineered 15+ custom full-stack web applications
-- Built solutions using **PHP (Laravel, CodeIgniter)**, **React**, **HTML/CSS**, **MySQL**
-- Implemented payment gateways, admin panels, inventory systems
-- Improved client delivery by 30% and reduced revision cycles by 40%
-- Managed deployments via cPanel, VPS, Git, and FileZilla
+**Automation Specialist & Developer** · SoftlinkIQ · *Nov 2025 – Aug 2026*
+- Developed CRM systems and business applications from requirements through production
+- Built APIs connecting CRM data with external services
+- Built end-to-end automations in GoHighLevel, n8n and Make.com for lead capture, follow-ups, notifications and data sync
 
-### **AI Automation Specialist & App Developer**
-*Freelance | Remote | Jan 2024 – Present*
-- Developed AI-powered automation solutions using **OpenAI API**, **Claude API**, and **LangChain**
-- Created intelligent chatbots and RAG systems for business process automation
-- Built cross-platform mobile apps using **Flutter** and **React Native**
-- Developed desktop applications with **Electron** for Windows, macOS, and Linux
-- Integrated AI agents for workflow optimization, reducing manual tasks by 60%
-- Implemented web scraping and automation tools using **Selenium** and **Python**
+**Frontend Engineer & Mobile Developer** · Tippler Pty Ltd · *Aug 2025 – Feb 2026*
+- Developed a web and mobile CRM in TypeScript, Tailwind CSS and shadcn/ui
+- Built a library of reusable, accessible UI components for the design system
+- Owned releases, bug fixes and production maintenance
 
-### **React Developer**
-*Private Client | Remote | Aug 2023 – Dec 2024*
-- Built reusable UI components with **React, Context API, Redux**
-- Integrated secure routing and role-based access
-- Improved UI/UX based on user feedback (25% satisfaction boost)
+**Automation Engineer & Full-Stack Developer** · Independent client work · *2023 – Present*
+- Automated workflows in GoHighLevel, n8n, Make.com and Zapier for agencies and service businesses, cutting manual tasks by up to 60%
+- Built AI lead qualification and CRM systems connecting 15+ platforms, with retry logic, fallbacks and alerts
+- Engineered 17+ web applications in React/Next.js, Laravel and Java Spring Boot, deployed on AWS, Vercel, Azure and VPS
 
-### **Virtual Assistant**
-*Freelance | Remote | Aug 2021 – Nov 2022*
-- Supported CRM, customer data, and email management
-- Used **Notion, Google Workspace**, and task automations
-- Reduced appointment overhead by 40%
+**React Developer (part-time)** · Private client · *Aug 2023 – Dec 2024*
+- Built reusable UI components with React, Context API and Redux across three product modules
 
-### **Quality Assurance**
-*Almex Technologies Philippines | On-site | Aug 2022 – Oct 2022*
-- Conducted quality audits with 98% accuracy
-- Used SPC and collaborated with teams to enhance quality documentation
+**Education:** BS Information Technology, Cavite State University (2021 – 2025)
 
 ---
 
-## 🚀 Project Highlights
-
-| Project | Tech Stack | Links |
-|--------|------------|-------|
-| 🎧 **IEM Ecommerce Website w/ 3D Customization** | Laravel, Three.js, Tailwind | [GitHub](https://github.com/lfsh2/INM_Audio) |
-| 🏋️‍♂️ **ForeverLife Gym Management System** | PHP, MySQL, Bootstrap | [GitHub](https://github.com/lfsh2/Gym-Management-System) |
-| 🏗 **Construction Booking & Portfolio Site** | Vue, Nuxt, Laravel, PostgreSQL | [Live Site](https://jkkconstructionservices.com/) |
-| 🤖 **AI Customer Support Chatbot** | Python, OpenAI API, LangChain, Flask | Coming Soon |
-| 📱 **Fitness Tracking Mobile App** | Flutter, Firebase, Dart | Coming Soon |
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React Patterns & React Native
-- Python Data Science (Pandas, NumPy, Matplotlib)
-- Mobile Development (Flutter, Kotlin)
-- DevOps (CI/CD with Jenkins, Docker, GitHub Actions)
-- .NET Core, Entity Framework
-- AWS & Azure Cloud Services
-- Golang, Ruby on Rails
-- Advanced AI/ML (RAG, Vector Databases, Fine-tuning)
-- LLM Integration & Prompt Engineering
-
----
-
-## 📊 GitHub Stats
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfsh2&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lfsh2&show_icons=true&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsh2&layout=compact&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lfsh2&show_icons=true&theme=transparent&hide_border=true&title_color=12213F&icon_color=65A30D" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsh2&layout=compact&theme=transparent&hide_border=true&title_color=12213F" height="165" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lfsh2&theme=transparent&hide_border=true&ring=65A30D&fire=65A30D&currStreakLabel=12213F" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🎓 Education
+## Let's work together
 
-**Bachelor of Science in Information Technology**  
-*Cavite State University*
-
----
-
-## 📫 Let's Connect!
+Have a workflow that's slowing you down, or an app you need built? Tell me about it.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edishan-lee-tenorio-0b3225171">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:edishanleetenorio03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/lfsh2">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://calendar.app.google/tsPLERd6vJ4yJGgL9"><img src="https://img.shields.io/badge/Book_a_strategy_call-C8F36A?style=for-the-badge&logo=googlecalendar&logoColor=12213F" alt="Book a strategy call" /></a>
+  <a href="https://www.linkedin.com/in/edishan-lee-tenorio-0b3225171/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:edishanleetenorio03@gmail.com"><img src="https://img.shields.io/badge/Email-12213F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://edishan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-12213F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lfsh2&color=blueviolet&style=flat&label=Profile+Views" />
-</p>
-
----
-
-<p align="center">
-  <i>Let's build something impactful together 💡</i>
+  <img src="https://komarev.com/ghpvc/?username=lfsh2&color=12213F&style=flat&label=Profile+views" alt="Profile views" />
 </p>
